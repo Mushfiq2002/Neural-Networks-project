@@ -1,7 +1,5 @@
 # Unsupervised Music Clustering with GTZAN Dataset
 
-An end-to-end, reproducible machine learning pipeline for unsupervised music clustering using the GTZAN dataset. This project implements multiple clustering approaches including traditional baselines and advanced VAE-based methods with multimodal fusion (audio + lyrics + genre).
-
 ## 🎯 Project Overview
 
 This project addresses music clustering tasks at three difficulty levels:
